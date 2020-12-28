@@ -24,6 +24,6 @@ if lightColour == "red":
     else:
         print("Stop")
 
-if lightColour != "green" | "yellow" | "red":
+if lightColour != "green" or "yellow" or "red":
     print("Stop") 
 
